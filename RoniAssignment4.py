@@ -15,6 +15,9 @@ numAttempts = 0
 while(userNum != randomNum):
     userNum = int(input("Please enter a number between 1 and 100 "))
     numAttempts = numAttempts + 1
+    if (numAttempts == 10):
+        print("Game over! Better luck next time!")
+        break
     if (userNum > randomNum):
         print("Too high! Try again.")
     elif (userNum < randomNum):
