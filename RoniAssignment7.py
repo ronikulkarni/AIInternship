@@ -1,7 +1,7 @@
 #-------------------------------------------------
 #    Author: Roni Kulkarni
 #    Date : 05-26-2025
-#    Password Strength Checker
+#    Hands on Python Data Structures
 
 #-------------------------------------------------
 # Task 1 - Working with Lists
